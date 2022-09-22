@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rk9690&label=Profile%20views&color=0e75b6&style=flat" alt="d4rk9690" /> </p>
 
@@ -8,6 +7,8 @@
 <p align="left"> <a href="https://twitter.com/d4rk_pog" target="blank"><img src="https://img.shields.io/twitter/follow/d4rk_pog?logo=twitter&style=for-the-badge" alt="d4rk_pog" /></a> </p>
 
 - 🔭 I’m currently working on [a copy of discord](https://discord.gg/invite/d4rk)
+
+-  Owner of D4rk Community (11k members on discord & 103k followers on instagram)
 
 - 🌱 I’m currently learning **html, css and javascript.**
 
