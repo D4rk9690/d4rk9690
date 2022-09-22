@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noah</h1>
+<h1 align="center">Hey guysss i'm Noah</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rk9690&label=Profile%20views&color=0e75b6&style=flat" alt="d4rk9690" /> </p>
 
