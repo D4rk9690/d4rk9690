@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a copy of discord](https://discord.gg/invite/d4rk)
 
-- Owner of D4rk Community (11.7k members on discord & 104k followers on instagram)
+- Owner of D4rk Community (11.8k members on discord & 104k followers on instagram)
 
 - 🌱 I’m currently learning **html, css and javascript.**
 
