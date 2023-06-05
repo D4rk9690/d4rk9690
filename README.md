@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on my exam
 
-- Owner of D4rk Community (10k members on discord)
-
 - 🌱 I’m currently learning **html, css, PHP and javascript.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/D4rk9690](https://github.com/D4rk9690)
