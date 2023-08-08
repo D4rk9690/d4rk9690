@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **depireuxnoah@gmail.com**
 
-- 📄 Know about my experiences [Study at St bart two years, 3 years at IMT and now student at IFAPME](Study at St bart two years, 3 years at IMT and now student at IFAPME)
+- 📄 Know about my experiences: Study at St bart two years, 3 years at IMT and now student at IFAPME and Developer at Prismatech SPRL.
 
 - ⚡ Fun fact **The funniest guy of his class**
 
