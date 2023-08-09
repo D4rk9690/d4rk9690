@@ -14,8 +14,8 @@
 
 <h3 align="left">Contactez moi:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/noah_dep" target="blank"><img align="center" src="https://media.discordapp.net/attachments/852924244185710613/1138821689497624666/linkedin.png" alt="noah_dep" height="30" width="40" /></a>
-<a href="https://instagram.com/noah_dep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d4rk_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/noah_dep" target="blank"><img align="center" src="https://media.discordapp.net/attachments/852924244185710613/1138821689497624666/linkedin.png" alt="noah_dep" height="40" width="40" /></a>
+<a href="https://instagram.com/noah_dep" target="blank"><img align="center" src="https://media.discordapp.net/attachments/852924244185710613/1138821689237590016/facebook.png" alt="d4rk_dev" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages et outils:</h3>
