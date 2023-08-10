@@ -32,6 +32,6 @@
 
 
 ## Statistics
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=D4rk9690&theme=highcontrast&locale=fr)](https://git.io/streak-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4rk9690" alt="d4rk9690" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rk9690&label=Profile%20views&color=0e75b6&style=flat" alt="d4rk9690" /> </p>
