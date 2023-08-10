@@ -14,6 +14,12 @@
 - 💻 Travail en tant que Developer chez Prismatech SPRL.
 
 
+
+## Statistics
+[![GitHub Streak](https://streak-stats.demolab.com?user=D4rk9690&theme=highcontrast&locale=fr&background=EB545400)](https://git.io/streak-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4rk9690" alt="d4rk9690" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rk9690&label=Profile%20views&color=0e75b6&style=flat" alt="d4rk9690" /> </p>
+
 ## Compétences
 🚀 Voici quelques-uns des outils et technologies que je maîtrise :
 - HTML5
@@ -30,8 +36,3 @@
 <a href="https://instagram.com/noah_dep" target="blank"><img align="center" src="https://media.discordapp.net/attachments/852924244185710613/1138841467759120384/icons8-instagram-96.png" alt="d4rk_dev" height="40" width="40" /></a>
 </p>
 
-
-## Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=D4rk9690&theme=highcontrast&locale=fr&background=EB545400)](https://git.io/streak-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4rk9690" alt="d4rk9690" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rk9690&label=Profile%20views&color=0e75b6&style=flat" alt="d4rk9690" /> </p>
