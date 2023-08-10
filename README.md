@@ -3,7 +3,7 @@
 </br>
 </br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/D4rk9690](https://github.com/D4rk9690)
+- 👨‍💻 Tout mes projet sont valable sur [https://github.com/D4rk9690](https://github.com/D4rk9690)
 
 - 💬 A propos **Vie en Belgique a liège, 19 ans**
 
@@ -17,8 +17,6 @@
 
 ## Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=D4rk9690&theme=highcontrast&hide_border=true&locale=fr&background=EB545400)](https://git.io/streak-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4rk9690" alt="d4rk9690" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rk9690&label=Profile%20views&color=0e75b6&style=flat" alt="d4rk9690" /> </p>
 
 ## Compétences
 🚀 Voici quelques-uns des outils et technologies que je maîtrise :
