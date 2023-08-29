@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenue sur mon Github.</h1>
-👋 Salut ! Je suis Noah Depireux, un passionné du développement basé à Liège, en Belgique. À seulement 19 ans, je suis plongé dans l'univers technologique depuis 2 ans à Saint Bart et 3 ans à l'IMT. Toujours en quête d'apprentissage et de défis stimulants !
+👋 Salut ! Je suis Noah Depireux, un passionné du développement basé à Liège, en Belgique. À seulement 19 ans, je suis plongé dans l'univers technologique depuis plus de 2 ans. Etudiant a Saint Bart 2 ans et 3 ans à l'IMT. Toujours en quête d'apprentissage et de défis stimulants !
 </br>
 </br>
 
