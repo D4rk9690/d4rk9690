@@ -9,7 +9,7 @@
 
 - 📫 Contactez moi **depireuxnoah@gmail.com**
 
-- 📄 Mes exprérience: Étudiez 2 ans a Saint Bart, 3 ans a l'IMT et actuellement étudiant IFAPME.
+- 📄 Mes exprérience: Étudiez 2 ans a Saint Bart, 3 ans a l'IMT et actuellement étudiant en deuxième a l'IFAPME.
 
 - 💻 Travail en tant que Developer chez Prismatech SPRL.
 
