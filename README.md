@@ -3,11 +3,11 @@
 </br>
 </br>
 
-- 👨‍💻 Tout mes projet sont valable sur [https://github.com/D4rk9690](https://github.com/D4rk9690)
+- 👨‍💻 All my project are avaible at [https://github.com/D4rk9690](https://github.com/D4rk9690)
 
-- 💬 A propos **Vie en Belgique a liège, 19 ans**
+- 💬 About me **Live in belgium, 19 years old**
 
-- 📫 Contactez moi **depireuxnoah@gmail.com**
+- 📫 Conctact me **depireuxnoah@gmail.com**
 
 - 📄 Mes exprérience: Étudiez 2 ans a Saint Bart, 3 ans a l'IMT et actuellement étudiant en deuxième a l'IFAPME.
 
