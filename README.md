@@ -14,6 +14,7 @@
 - 💻 Working as Developer at Prismatech SPRL.
 
 
+
 ## Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=D4rk9690&theme=highcontrast&hide_border=true&locale=fr&background=EB545400)](https://git.io/streak-stats)
 
