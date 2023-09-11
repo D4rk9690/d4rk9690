@@ -16,7 +16,7 @@
 
 
 ## Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=D4rk9690&theme=highcontrast&hide_border=true&locale=fr&background=EB545400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=D4rk9690&theme=highcontrast&hide_border=true&locale=en&background=EB545400)](https://git.io/streak-stats)
 
 ## Compétences
 🚀 Some of the technologie i'm working with :
