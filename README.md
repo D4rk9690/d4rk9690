@@ -27,7 +27,6 @@
 - MySQL
 - PHP
 
-
   
 ## Contact me
 <p align="left">
