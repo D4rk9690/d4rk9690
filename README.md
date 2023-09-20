@@ -26,7 +26,6 @@
 - MySQL
 - PHP
 
-  
 ## Contact me
 <p align="left">
 <a href="https://www.linkedin.com/in/noah-depireux/" target="blank"><img align="center" src="https://media.discordapp.net/attachments/852924244185710613/1138841467129958512/icons8-linkedin-96.png" alt="noah_dep" height="40" width="40" /></a>
