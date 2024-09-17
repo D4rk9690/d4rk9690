@@ -1,17 +1,17 @@
 <h1 align="center">Welcome on my github.</h1>
-👋 Hello! I am Noah Depireux, a belgian developper located in Liege. At just 19 years old, i'm on a development company for the last year. Student at IFAPME of Liege, always looking for new task and to learn more !
+👋 Hello! I am Noah Depireux, a belgian developper located in Liege. At just 20 years old, I was working as Web Developer for two years in a development company based in Liege.
 </br>
 </br>
 
 - 👨‍💻 All my project are avaible at [https://github.com/D4rk9690](https://github.com/D4rk9690)
 
-- 💬 About me **Live in belgium, 19 years old**
+- 💬 About me **Live in belgium, 20 years old**
 
 - 📫 Conctact me **depireuxnoah@gmail.com**
 
-- 📄 My experiences: Studied 2 years at Saint Bart, 3 years at IMT and now at my second years at IFAPME.
+- 📄 My experiences: Studied 2 years at Saint Bart, 3 years at IMT, two years at IFAPME, two years at PRISMATECH SPRL.
 
-- 💻 Working as Developer at Prismatech SPRL.
+- 💻 Searching for a job.
 
 ## Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=D4rk9690&theme=highcontrast&hide_border=true&locale=en&background=EB545400)](https://git.io/streak-stats)
