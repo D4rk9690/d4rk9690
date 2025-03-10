@@ -1,5 +1,5 @@
 <h1 align="center">Welcome on my github.</h1>
-👋 Hello! I am Noah Depireux, a belgian developper located in Liege. At just 20 years old, I was working as Web Developer for two years in a development company based in Liege.
+👋 Hello! I am Noah Depireux, a belgian developper located in Liege. At just 20 years old, I'm working as Web Developer for two years in multiple Developement company.
 </br>
 </br>
 
@@ -9,9 +9,7 @@
 
 - 📫 Conctact me **depireuxnoah@gmail.com**
 
-- 📄 My experiences: Studied 2 years at Saint Bart, 3 years at IMT, two years at IFAPME, two years at PRISMATECH SPRL.
-
-- 💻 Searching for a job.
+- 📄 My experiences: Studied 2 years at Saint Bart, 3 years at IMT, two years at IFAPME, two years at PRISMATECH SPRL, currently in fulltime at Kolibri Consulting.
 
 ## Compétences
 🚀 Some of the technologie i'm working with :
@@ -22,6 +20,8 @@
 - C#
 - MySQL
 - PHP
+- React (Learning)
+- Laravel (Learning)
 
 ## Contact me
 <p align="left">
